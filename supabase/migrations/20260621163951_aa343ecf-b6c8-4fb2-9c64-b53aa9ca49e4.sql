@@ -1,0 +1,5 @@
+
+DROP POLICY IF EXISTS "System can insert roles" ON public.user_roles;
+REVOKE EXECUTE ON FUNCTION public.handle_new_user() FROM anon, authenticated, public;
+REVOKE EXECUTE ON FUNCTION public.has_role(uuid, app_role) FROM anon, public;
+GRANT EXECUTE ON FUNCTION public.has_role(uuid, app_role) TO authenticated;
