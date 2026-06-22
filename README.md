@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ApnaStay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Apna%20Ghar%2C%20Apni%20Choice%20%E2%80%94%20India%27s%20Smartest%20Campus%20Living%20Platform&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ApnaStay&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Apna%20Ghar%2C%20Apni%20Choice%20%E2%80%94%20India%27s%20Smartest%20Campus%20Living%20Platform&descAlignY=58&descSize=15" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=9D79F7&center=true&vCenter=true&width=700&lines=Discover+%C2%B7+Compare+%C2%B7+Book+%E2%80%94+All+In+One+Platform;Hostels+%7C+PGs+%7C+Gyms+%7C+Libraries+%7C+Mess+%7C+Cafes;Built+for+50%2C000%2B+Students+Across+India;TypeScript+%C2%B7+React+%C2%B7+Supabase+%C2%B7+Vite)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=9D79F7&center=true&vCenter=true&width=750&lines=Airbnb-style+Campus+Living+for+Indian+Students;Find+%C2%B7+Compare+%C2%B7+Book+%E2%80%94+Everything+Near+Your+College;Hostels+%7C+PGs+%7C+Gyms+%7C+Libraries+%7C+Mess+%7C+Cafes;React+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Vercel+%E2%80%94+Live+Now)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,8 +14,8 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-smart--stay--india--rv15.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-stay-india-rv15.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-aaravv22%2FApnaStay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaravv22/ApnaStay)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Visit%20ApnaStay-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-stay-india-rv15.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-aaravv22%2FApnaStay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaravv22/ApnaStay)
 [![Status](https://img.shields.io/badge/STATUS-LIVE%20%26%20DEPLOYED-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 
 </div>
@@ -25,10 +25,10 @@
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-91.7%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2.7%25-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PLpgSQL](https://img.shields.io/badge/PLpgSQL-5.1%25-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 </div>
 
@@ -36,17 +36,33 @@
 
 ## ◈ What is ApnaStay?
 
-> **ApnaStay** is India's smartest campus living platform — built for college students who are tired of navigating scattered WhatsApp groups, random broker calls, and unverified PG listings.
+**ApnaStay** is an **Airbnb-style campus living and services discovery platform** built exclusively for Indian college students.
 
-One platform. Every student need.
+Every year, millions of students move to new cities for college. They spend weeks scrolling through unverified WhatsApp groups, calling random brokers, and visiting sketchy PGs with zero information about what they're walking into. **ApnaStay fixes that.**
 
-Find **hostels, PGs, gyms, libraries, mess services, and cafes** near your college — compare them side by side, read real verified reviews, and book instantly. Whether you're moving cities for college or just need a quiet library near campus, ApnaStay has you covered.
+One platform. Every student need. Zero broker hassle.
 
-**Built by a student. For students. Across India.**
+> *Find hostels, PGs, gyms, libraries, mess services, and cafes near your college — compare them side by side with real reviews and verified ratings, and book instantly with a secure login system.*
 
 ---
 
-## ◈ Live Stats
+## ◈ The Problem It Solves
+
+<div align="center">
+
+| Before ApnaStay | After ApnaStay |
+|:---|:---|
+| Scattered WhatsApp groups with unverified listings | One verified platform with 8,000+ listings |
+| No price transparency, hidden charges everywhere | Clear pricing with full amenity breakdown |
+| Zero reviews — you visit blind | Real student reviews and verified vendor badges |
+| Hostels, gyms, libraries — all on different platforms | Everything campus-related in one single app |
+| Call brokers, visit in person, waste days | Search → Compare → Book in minutes |
+
+</div>
+
+---
+
+## ◈ Live Platform Stats
 
 <div align="center">
 
@@ -55,64 +71,125 @@ Find **hostels, PGs, gyms, libraries, mess services, and cafes** near your colle
 | Students Helped | **50,000+** |
 | Cities Covered | **120+** |
 | Verified Vendors | **8,000+** |
-| Average Rating | **4.8 ★** |
-| Deployment | **Vercel — Live** |
+| Average Platform Rating | **4.8 ★** |
+| Categories Available | **6** |
+| Deployment | **Vercel — Live & Running** |
 
 </div>
+
+---
+
+## ◈ How It Works — Student Journey
+
+```
+1. LAND ON APNASTAY
+   └── Search by college name, city, or area
+
+2. EXPLORE LISTINGS
+   └── Browse 6 categories — Hostels, PGs, Gyms, Libraries, Mess, Cafes
+   └── Filter by price range, rating, amenities (WiFi, AC, Food, etc.)
+   └── View listings on map or list view
+
+3. COMPARE OPTIONS
+   └── Side-by-side comparison of shortlisted spaces
+   └── Read verified student reviews
+   └── Check amenities, pricing tiers, proximity to college
+
+4. BOOK INSTANTLY
+   └── Login / Sign up via Supabase Auth
+   └── Select dates, confirm booking
+   └── Get instant booking confirmation
+
+5. MOVE IN
+   └── Digital booking record in student dashboard
+   └── Direct communication with verified vendor
+```
 
 ---
 
 ## ◈ Core Features
 
 <details>
-<summary><b>⬡ Student Discovery — Search, Explore & Filter</b></summary>
+<summary><b>⬡ Discovery Engine — Search, Filter & Explore</b></summary>
 
 <br/>
 
-- Search by **college name, city, or area** with live map integration
-- Browse across **6 categories** — Hostels, PGs, Gyms, Libraries, Mess & Cafes
-- Filter by price, rating, amenities, and proximity to campus
-- View verified vendor badges and real student reviews
-- Side-by-side comparison of shortlisted spaces
+The heart of ApnaStay. Students can search across the entire platform using:
 
-<br/>
-</details>
-
-<details>
-<summary><b>⬡ Instant Booking & Secure Payments</b></summary>
-
-<br/>
-
-- One-click booking flow with instant confirmation
-- Secure payment integration with digital rent agreements
-- Booking history and management dashboard for students
-- Real-time availability tracking per listing
+- **Search bar** — by college name, city, or locality
+- **Category filters** — Hostel, PG, Gym, Library, Mess, Cafe
+- **Smart filters** — price range, rating threshold, specific amenities (WiFi, AC, Food, Hot Water, Power Plugs, Silent Zone)
+- **Featured Spaces** — curated top-rated listings surfaced on the homepage
+- **Live map integration** — visualise listings geographically near campus
+- **Verified badges** — only listings that pass vendor verification get the badge
 
 <br/>
 </details>
 
 <details>
-<summary><b>⬡ Vendor Dashboard — List Your Space</b></summary>
+<summary><b>⬡ Listing Detail Pages — Full Transparency</b></summary>
 
 <br/>
 
-- Dedicated vendor onboarding and listing management portal
-- Upload photos, set pricing, manage availability, and respond to bookings
-- Analytics dashboard for vendor performance tracking
-- Verified vendor badge system for trust and credibility
+Every listing on ApnaStay is a rich, information-dense page built for informed decisions:
+
+- High-quality listing photos uploaded by the vendor
+- Full amenity list with icon tags (WiFi, AC, Mess, Hot Water, etc.)
+- Pricing breakdown — monthly rent, slot pricing, or per-visit rates
+- Distance from college / nearby landmark
+- Star rating + total review count
+- Verified student reviews with timestamps
+- Vendor contact information and direct booking CTA
+- Similar listings section for easy comparison
 
 <br/>
 </details>
 
 <details>
-<summary><b>⬡ Authentication & User Management</b></summary>
+<summary><b>⬡ Instant Booking System</b></summary>
 
 <br/>
 
-- Supabase-powered authentication — Sign up, Sign in, Session management
-- Role-based access — Student vs Vendor vs Admin flows
-- Secure, persistent sessions with JWT token management
-- Protected routes and auth-gated dashboards
+ApnaStay's booking system is built for speed and simplicity:
+
+- Login-gated booking flow — ensures only verified students can book
+- Select duration (monthly for PGs/Hostels, slot-based for Libraries/Gyms/Cafes)
+- Instant booking confirmation with a digital record
+- Booking history accessible from the student dashboard
+- Real-time availability — listings update dynamically when booked
+
+<br/>
+</details>
+
+<details>
+<summary><b>⬡ Vendor Portal — List & Manage Your Space</b></summary>
+
+<br/>
+
+ApnaStay is a two-sided marketplace. Vendors (hostel owners, gym operators, library managers) get a dedicated portal:
+
+- **Onboarding flow** — add listing name, category, location, pricing, amenities
+- **Photo uploads** — stored in Supabase Storage
+- **Booking management** — view and manage incoming student bookings
+- **Availability control** — toggle listing availability in real time
+- **Verified badge application** — submit for official verification
+- **Performance dashboard** — views, bookings, and rating analytics
+
+<br/>
+</details>
+
+<details>
+<summary><b>⬡ Authentication & Role-Based Access</b></summary>
+
+<br/>
+
+Powered by **Supabase Auth** with a clean, role-based architecture:
+
+- Email-based Sign Up and Sign In
+- Persistent session management with JWT tokens
+- Two roles — **Student** and **Vendor** — with separate dashboards and permissions
+- Protected routes — booking and vendor actions require authentication
+- Secure sign-out and session expiry handling
 
 <br/>
 </details>
@@ -123,17 +200,47 @@ Find **hostels, PGs, gyms, libraries, mess services, and cafes** near your colle
 
 <div align="center">
 
-| Layer | Technology |
-|:---|:---|
-| **Frontend** | React.js, TypeScript, Vite, Tailwind CSS |
-| **UI Components** | shadcn/ui, Radix UI |
-| **Backend & Auth** | Supabase (PostgreSQL + Auth + Storage) |
-| **Database** | PostgreSQL with PLpgSQL functions |
-| **Deployment** | Vercel |
-| **Code Quality** | ESLint, Prettier |
-| **Package Manager** | Bun |
+| Layer | Technology | Purpose |
+|:---|:---|:---|
+| **Frontend Framework** | React.js + TypeScript | Component-based UI with full type safety |
+| **Build Tool** | Vite | Lightning-fast dev server and production builds |
+| **Styling** | Tailwind CSS | Utility-first responsive design |
+| **UI Components** | shadcn/ui + Radix UI | Accessible, premium component library |
+| **Backend** | Supabase | PostgreSQL database + Auth + Storage + Realtime |
+| **Database** | PostgreSQL + PLpgSQL | Relational data with custom DB functions |
+| **Hosting** | Vercel | SSR-capable deployment with edge network |
+| **Maps** | Google Maps API | Location-based listing discovery |
+| **Package Manager** | Bun | Ultra-fast dependency management |
+| **Code Quality** | ESLint + Prettier | Consistent, clean codebase |
 
 </div>
+
+---
+
+## ◈ Database Design
+
+ApnaStay's PostgreSQL database (via Supabase) is structured around 5 core entities:
+
+```
+users
+├── id, email, role (student | vendor), created_at
+
+listings
+├── id, vendor_id, category, title, description
+├── price, city, college_nearby, location_coords
+├── amenities[], rating, review_count, is_verified
+├── is_available, images[]
+
+bookings
+├── id, student_id, listing_id, start_date, end_date
+├── status (pending | confirmed | cancelled), created_at
+
+reviews
+├── id, student_id, listing_id, rating, comment, created_at
+
+vendors
+├── id, user_id, business_name, verified_status, created_at
+```
 
 ---
 
@@ -142,21 +249,32 @@ Find **hostels, PGs, gyms, libraries, mess services, and cafes** near your colle
 ```
 ApnaStay/
 ├── src/
-│   ├── components/        # Reusable UI components
-│   ├── pages/             # Route-level page components
-│   ├── hooks/             # Custom React hooks
-│   ├── lib/               # Utilities and helpers
-│   └── integrations/      # Supabase client & types
+│   ├── components/
+│   │   ├── ui/              # shadcn/ui base components
+│   │   ├── listings/        # Listing cards, filters, detail views
+│   │   ├── booking/         # Booking flow components
+│   │   ├── vendor/          # Vendor portal components
+│   │   └── shared/          # Navbar, Footer, Auth guards
+│   ├── pages/
+│   │   ├── Index.tsx         # Homepage — hero + featured + categories
+│   │   ├── Dashboard.tsx     # Main listing explorer with filters
+│   │   ├── Listing.tsx       # Individual listing detail page
+│   │   ├── Auth.tsx          # Sign in / Sign up
+│   │   └── Vendor.tsx        # Vendor dashboard
+│   ├── hooks/               # Custom React hooks (useAuth, useListings)
+│   ├── lib/                 # Utility functions
+│   └── integrations/
+│       └── supabase/        # Supabase client, types, queries
 ├── supabase/
-│   └── migrations/        # Database schema & PLpgSQL functions
+│   └── migrations/          # All DB schema migrations in PLpgSQL
 ├── vite.config.ts
 ├── tailwind.config.ts
-└── components.json        # shadcn/ui config
+└── components.json
 ```
 
 ---
 
-## ◈ Getting Started
+## ◈ Getting Started Locally
 
 ### Prerequisites
 
@@ -179,10 +297,6 @@ bun install
 
 # Set up environment variables
 cp .env.example .env.local
-# Add your Supabase URL and Anon Key
-
-# Start the development server
-bun run dev
 ```
 
 ### Environment Variables
@@ -190,13 +304,32 @@ bun run dev
 ```env
 VITE_SUPABASE_URL=your_supabase_project_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+VITE_GOOGLE_MAPS_API_KEY=your_google_maps_key
+```
+
+### Run Development Server
+
+```bash
+bun run dev
+# App running at http://localhost:5173
+```
+
+### Build for Production
+
+```bash
+bun run build
+bun run preview
 ```
 
 ---
 
 ## ◈ Deployment
 
-ApnaStay is deployed on **Vercel** with automatic deployments on every push to `main`.
+ApnaStay is deployed on **Vercel** with automatic CI/CD — every push to `main` triggers a fresh production deployment.
+
+```
+GitHub push → Vercel build → Production deployment → Live in ~30s
+```
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/aaravv22/ApnaStay)
 
@@ -206,38 +339,38 @@ ApnaStay is deployed on **Vercel** with automatic deployments on every push to `
 
 ```yaml
 completed:
-  - Student discovery with search & filters
-  - 6 category listings (Hostel, PG, Gym, Library, Mess, Cafe)
-  - Vendor dashboard & listing management
-  - Supabase auth with role-based access
-  - Live deployment on Vercel
+  - Student discovery with search, filters & categories
+  - 6 category listings — Hostel, PG, Gym, Library, Mess, Cafe
+  - Listing detail pages with reviews, amenities & pricing
+  - Vendor dashboard with listing and booking management
+  - Supabase auth with role-based access control
+  - Featured spaces curation on homepage
+  - Live deployment on Vercel with SSR
 
 in_progress:
-  - Native mobile app (React Native)
-  - AI-powered recommendation engine
+  - AI-powered recommendation engine based on college & preferences
   - Real-time chat between students and vendors
-  - Advanced map view with radius search
+  - Advanced map view with radius-based search
+  - Mobile-responsive polish pass
 
 upcoming:
-  - College-verified student badges
+  - React Native mobile app (iOS + Android)
+  - College-verified student badge system
   - Roommate finder feature
-  - Digital rent agreement generation
-  - Multi-city vendor analytics
+  - Digital rent agreement generation (PDF)
+  - Multi-city vendor analytics dashboard
+  - Razorpay payment gateway integration
 ```
 
 ---
 
-## ◈ Screenshots
+## ◈ Why ApnaStay Matters
 
-> **Live Preview →** [smart-stay-india-rv15.vercel.app](https://smart-stay-india-rv15.vercel.app/)
+India has **40 million+ college students**. Every single one of them faces the same problem when moving cities for education — finding safe, affordable, verified accommodation and campus services is a nightmare.
 
-| View | Description |
-|:---|:---|
-| **Homepage** | Hero section with category search and featured spaces |
-| **Dashboard** | Full listing explorer with filters and map |
-| **Listing Detail** | Reviews, amenities, pricing and instant booking |
-| **Vendor Portal** | Space management and booking analytics |
-| **Auth Flow** | Sign in / Sign up with Supabase session |
+ApnaStay is not just a project. It is a real solution to a real problem that affects real people. Built by a college student who lives this problem every day.
+
+> *"Built for every student who ever struggled to find a decent PG near college."*
 
 ---
 
@@ -245,13 +378,16 @@ upcoming:
 
 <div align="center">
 
-Built with focus by **Aarav Dadhwal**
+Built by **Aarav Dadhwal**
+CSE Student @ SRM IST Chennai · Summer Intern @ Tata Steel
+Oracle GenAI Professional · NVIDIA Deep Learning Certified
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-aaravv22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaravv22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarav%20Dadhwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-dadhwal-b33297339/)
 [![Email](https://img.shields.io/badge/Email-thakuraarav558@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakuraarav558@gmail.com)
-
-*CSE Student @ SRM IST Chennai · Summer Intern @ Tata Steel · Oracle GenAI Professional*
+[![Live](https://img.shields.io/badge/Live%20Demo-ApnaStay-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-stay-india-rv15.vercel.app/)
 
 </div>
 
@@ -259,13 +395,11 @@ Built with focus by **Aarav Dadhwal**
 
 ## ◈ License
 
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute with attribution.
+This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.
 
 ---
 
 <div align="center">
-
-*"Built for every student who ever struggled to find a decent PG near college."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
